@@ -132,6 +132,7 @@ body {
 
 main {
     padding: 4rem 0;
+    border-top: 5px solid var(--primary-color);
 }
 
 section {
@@ -232,8 +233,7 @@ h2::after {
 }
 
 .FC-section {
-    background-color: var(--secondary-color);
-    
+    background-color: var(--secondary-color);   
 }
 
 .history-content {
